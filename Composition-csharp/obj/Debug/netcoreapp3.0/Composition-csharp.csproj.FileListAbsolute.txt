@@ -1,0 +1,11 @@
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\bin\Debug\netcoreapp3.0\Composition-csharp.exe
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\bin\Debug\netcoreapp3.0\Composition-csharp.deps.json
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\bin\Debug\netcoreapp3.0\Composition-csharp.runtimeconfig.json
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\bin\Debug\netcoreapp3.0\Composition-csharp.runtimeconfig.dev.json
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\bin\Debug\netcoreapp3.0\Composition-csharp.dll
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\bin\Debug\netcoreapp3.0\Composition-csharp.pdb
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\obj\Debug\netcoreapp3.0\Composition-csharp.csprojAssemblyReference.cache
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\obj\Debug\netcoreapp3.0\Composition-csharp.AssemblyInfoInputs.cache
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\obj\Debug\netcoreapp3.0\Composition-csharp.AssemblyInfo.cs
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\obj\Debug\netcoreapp3.0\Composition-csharp.dll
+C:\Users\GabrielSergioFerreir\source\repos\Composition-csharp\Composition-csharp\obj\Debug\netcoreapp3.0\Composition-csharp.pdb
